@@ -25,3 +25,7 @@ em {
 .inserto {
     margin-left: 30px;
 }
+
+p {
+    font: monospace ;
+}
